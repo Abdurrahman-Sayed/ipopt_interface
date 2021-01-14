@@ -11,12 +11,6 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
 bld/
 [Bb]in/
 [Oo]bj/
@@ -61,6 +55,8 @@ artifacts/
 *.tli
 *.tlh
 *.tmp
+*.idb
+*.obj.enc
 *.tmp_proj
 *.log
 *.vspscc
